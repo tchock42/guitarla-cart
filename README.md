@@ -1,6 +1,6 @@
 # Carrito de Compras de GuitarLA
 
-Proyecto introductorio de React + Vite + CSS
+Proyecto introductorio de React + Vite + CSS + Gitpages
 
 ## Instalación
 
