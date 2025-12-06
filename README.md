@@ -45,5 +45,4 @@ export default defineConfig({
 ```
 
 ## Demo en línea
-
 [Ver sitio en línea](https://tchock42.github.io/guitarla-cart/)
